@@ -1,4 +1,4 @@
-module main
+module github.com/krishantt/go-tryout
 
 go 1.22.3
 
